@@ -20,7 +20,7 @@ webtitle: 'Mycclee’s home'
 bio: '客官多来转转啊'
 about: true
 aboutyou: '一个致力于解决问题的博客'
-portraits: '/assets/timg.png' # your portraits image file path
+portraits: '/assets/waddles.png' # your portraits image file path
 
 # SNS
 SNS: true
