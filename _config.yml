@@ -2,7 +2,7 @@
 title: 'Mycclee’s home'
 description: '个人博客，欢迎浏览'
 keywords: '博客'
-url: 'https://abc.github.io' # your host
+url: 'https://authorLi.github.io' # your host
 
 # nav 中文字符空格：&emsp;
 nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
@@ -28,16 +28,16 @@ SNS-icon: #['facebook', 'weibo', 'QQ', 'github', 'Dribbble', 'twitter', 'instagr
   mail: '524894052@qq.com'
   weixin: 'wxid_g7q0jnijg4n521' # your wechat image file path
   QQ: '524894052' # your QQ image file path
-  weibo: ''
-  instagram: ''
-  twitter: ''
+#  weibo: ''
+#  instagram: ''
+#  twitter: ''
   github: 'https://github.com/authorLi'
-  Dribbble: ''
-  facebook: ''
-  Google: ''
-  zhihu: ''
-  juejin: ''
-  twitch: ''
+#  Dribbble: ''
+#  facebook: ''
+#  Google: ''
+#  zhihu: ''
+#  juejin: ''
+#  twitch: ''
 
 # 分页
 paginate: 10
@@ -58,7 +58,7 @@ pygmentsTheme: 'default'
 
 # 友情链接
 friends:
-  jekyll: 'https://www.baidu.com.cn/'
+  baidu: 'https://www.baidu.com.cn/'
 
 # 评论 最佳体验 在disqus、livere和Gitment之间三选一
 # disqus 评论
@@ -69,14 +69,14 @@ livere: true
 livere_uid: 'MTAyMC8zNDI2OS8xMDgwNg==' # MTAyMC8zNDI2OS8xMDgwNg==
 # Gitment评论 OAuth Application
 Gitment: false
-Gitment_owner: ''  # github用户名
-Gitment_repo: ''  # github博客存放的仓库名
+Gitment_owner: 'authorLi'  # github用户名
+Gitment_repo: 'authorLi.github.io'  # github博客存放的仓库名
 client_id: ''  # 注册 OAuth Application 后获得的 client_id
 client_secret: ''  # 注册 OAuth Application 后获得的 client_secret
 
 # Share : weibo, qq, wechat, tencent, douban, qzone, linkedin, diandian, facebook, twitter, google
 social-share: true
-social-share-items: ['qq', 'wechat', 'weibo', 'twitter', 'facebook']
+social-share-items: ['qq', 'wechat']
 
 # 百度统计 在baidu-url里填写自己相关的url代码
 baidu: true
